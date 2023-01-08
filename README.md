@@ -1,5 +1,5 @@
 # Arduino15
-***Paste In C:\Users\**(Your User)**\AppData\Local\Arduino15 ***
+***Paste In C:\Users\ **(Your User)** \AppData\Local\Arduino15 ***
 
 YOU CAN CHOOSE TO SELECT
 
