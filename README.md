@@ -5,7 +5,7 @@ YOU CAN CHOOSE TO SELECT
 
 1. If dowload File On Github Rename Folder packges to packages
 
-2. File In Google Drive It Arduino in lib-Board Complete File  
+2. File In Google Drive It Arduino lib-Board Complete File  
     https://drive.google.com/file/d/1hI_0GttGfxDn0XEFe9F4Euo2kBzXPjGS/view?usp=share_link
 
 
